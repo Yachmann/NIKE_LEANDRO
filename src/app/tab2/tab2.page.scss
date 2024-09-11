@@ -1,0 +1,29 @@
+ion-content{
+   --ion-background-color: linear-gradient(to right top, #17a0b2, #00b7b7, #00cca2, #00dd74, #12eb1b);
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.nike{
+    width: 90px;
+    height: 90px;
+    margin-left: 8px;
+}
+.tenisgrande{
+    display: flex;
+    margin-left: 80px;
+    
+}
+.row{
+    width: 100%; /* Certifique-se de que ocupa a largura total disponível */
+    height: 100%; 
+}
+.texto1{
+    width: 190%;
+}
+
+ion-button{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    margin-left: 60%;
+}
